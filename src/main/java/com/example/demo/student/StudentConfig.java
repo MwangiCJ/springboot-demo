@@ -17,7 +17,7 @@ public class StudentConfig {
         return args ->{
             Student john = new Student("John",
                     "john@gmail.com",
-                    LocalDate.of(1993, Month.OCTOBER, 27)
+                    LocalDate.of(1994, Month.DECEMBER, 25)
                     );
 
             Student james = new Student("John",
